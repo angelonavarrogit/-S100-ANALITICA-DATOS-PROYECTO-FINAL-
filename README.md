@@ -14,7 +14,7 @@ Este proyecto desarrolla un modelo predictivo para determinar si un título del 
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-4. Abre `Modelo_es_fresco.ipynb` con **Jupyter Notebook**, **JupyterLab** o **Google Colab**.
+4. Abre `S100_EquipoN7_ParteII.ipynb` con **Jupyter Notebook**, **JupyterLab** o **Google Colab**.
 5. Ejecuta las celdas en orden.
 
 El notebook realiza la limpieza de los datos, construcción de la variable objetivo, análisis de la hipótesis, entrenamiento de los modelos y evaluación de sus resultados.
